@@ -1,1 +1,2 @@
 This is first line of index.
+This is second line.
